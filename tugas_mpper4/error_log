@@ -1,0 +1,233 @@
+[11-Oct-2024 07:06:58 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:06:58 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:06:58 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:06:58 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:06:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:11:28 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:11:28 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:11:28 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:11:28 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:11:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:42 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:42 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:42 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:42 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:44 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:44 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:44 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:44 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:46 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:46 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:46 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:46 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:16:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:06 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:06 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:06 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:06 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:10 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:10 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:10 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:10 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:55 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:55 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:55 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:55 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:56 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:56 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:56 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:56 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:59 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:59 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:59 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:59 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:18:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 13
+[11-Oct-2024 07:33:40 UTC] PHP Warning:  Undefined variable $host in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 13
+[11-Oct-2024 07:33:40 UTC] PHP Warning:  Undefined variable $user in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 13
+[11-Oct-2024 07:33:40 UTC] PHP Warning:  Undefined variable $pass in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 13
+[11-Oct-2024 07:33:40 UTC] PHP Warning:  Undefined variable $db in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 13
+[11-Oct-2024 07:33:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php:13
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php(13): mysqli_connect(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 13
+[12-Oct-2024 03:20:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Too many connections in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php:12
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php(12): mysqli->__construct('localhost', 'praktikum_Ojan', Object(SensitiveParameterValue), 'praktikum_ti_20...')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 12
+[12-Oct-2024 03:31:17 UTC] PHP Warning:  Undefined array key "kd_agenda" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 56
+[12-Oct-2024 03:31:17 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 56
+[12-Oct-2024 03:34:23 UTC] PHP Warning:  Undefined array key "kd_agenda" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 57
+[12-Oct-2024 03:34:23 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/agenda.php on line 57
+[12-Oct-2024 04:38:38 UTC] PHP Warning:  Undefined array key "kd_info" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 62
+[12-Oct-2024 04:38:38 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 62
+[12-Oct-2024 04:38:51 UTC] PHP Warning:  Undefined array key "kd_info" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 62
+[12-Oct-2024 04:38:51 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 62
+[12-Oct-2024 04:41:32 UTC] PHP Warning:  Undefined array key "kd_info" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 62
+[12-Oct-2024 04:41:32 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 62
+[12-Oct-2024 04:44:00 UTC] PHP Warning:  Undefined array key "kd_info" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 63
+[12-Oct-2024 04:44:00 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 63
+[12-Oct-2024 04:45:34 UTC] PHP Warning:  Undefined array key "kd_info" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 63
+[12-Oct-2024 04:45:34 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 63
+[12-Oct-2024 04:46:01 UTC] PHP Warning:  Undefined array key "kd_info" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 63
+[12-Oct-2024 04:46:01 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/info.php on line 63
+[12-Oct-2024 06:48:06 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[12-Oct-2024 06:54:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[12-Oct-2024 06:54:18 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[12-Oct-2024 06:54:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[12-Oct-2024 06:54:18 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[12-Oct-2024 06:54:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[12-Oct-2024 06:54:18 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[12-Oct-2024 06:54:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[12-Oct-2024 06:54:18 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[12-Oct-2024 06:54:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[12-Oct-2024 06:54:18 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[12-Oct-2024 06:54:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[12-Oct-2024 06:54:18 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[12-Oct-2024 07:25:46 UTC] PHP Warning:  Undefined array key "kd_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 58
+[12-Oct-2024 07:25:46 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 58
+[12-Oct-2024 07:25:46 UTC] PHP Warning:  Undefined array key "tgl_post_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 62
+[12-Oct-2024 07:25:46 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 62
+[12-Oct-2024 07:25:46 UTC] PHP Warning:  Undefined array key "status_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 63
+[12-Oct-2024 07:25:46 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 63
+[12-Oct-2024 07:25:46 UTC] PHP Warning:  Undefined array key "kd_petugas" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 64
+[12-Oct-2024 07:25:46 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 64
+[12-Oct-2024 08:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[12-Oct-2024 08:08:53 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[12-Oct-2024 08:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[12-Oct-2024 08:08:53 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[12-Oct-2024 08:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[12-Oct-2024 08:08:53 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[12-Oct-2024 08:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[12-Oct-2024 08:08:53 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[12-Oct-2024 08:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[12-Oct-2024 08:08:53 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[12-Oct-2024 08:08:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[12-Oct-2024 08:08:53 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[12-Oct-2024 08:26:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[12-Oct-2024 08:26:16 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[12-Oct-2024 08:26:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[12-Oct-2024 08:26:16 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[12-Oct-2024 08:26:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[12-Oct-2024 08:26:16 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[12-Oct-2024 08:26:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[12-Oct-2024 08:26:16 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[12-Oct-2024 08:26:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[12-Oct-2024 08:26:16 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[12-Oct-2024 08:26:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[12-Oct-2024 08:26:16 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[14-Oct-2024 06:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[14-Oct-2024 06:11:52 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[14-Oct-2024 06:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[14-Oct-2024 06:11:52 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[14-Oct-2024 06:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[14-Oct-2024 06:11:52 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[14-Oct-2024 06:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[14-Oct-2024 06:11:52 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[14-Oct-2024 06:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[14-Oct-2024 06:11:52 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[14-Oct-2024 06:11:52 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[14-Oct-2024 06:11:52 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 02:47:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 02:47:55 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 02:47:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[15-Oct-2024 02:47:55 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 40
+[15-Oct-2024 02:47:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[15-Oct-2024 02:47:55 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 41
+[15-Oct-2024 02:47:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[15-Oct-2024 02:47:55 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 42
+[15-Oct-2024 02:47:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[15-Oct-2024 02:47:55 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 43
+[15-Oct-2024 02:47:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 02:47:55 UTC] PHP Deprecated:  mysqli::real_escape_string(): Passing null to parameter #1 ($string) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:34:30 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:34:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:34:30 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:34:30 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:34:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:34:30 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:34:30 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:37:16 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:37:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:37:16 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:37:16 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:37:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:37:16 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:37:16 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:39:11 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:39:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:39:11 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:39:11 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:39:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:39:11 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:39:11 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:39:22 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:39:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:39:22 UTC] PHP Deprecated:  basename(): Passing null to parameter #1 ($path) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 39
+[15-Oct-2024 03:39:22 UTC] PHP Warning:  Undefined array key "foto_galery" in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:39:22 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:39:22 UTC] PHP Deprecated:  getimagesize(): Passing null to parameter #1 ($filename) of type string is deprecated in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
+[15-Oct-2024 03:39:22 UTC] PHP Fatal error:  Uncaught ValueError: Path cannot be empty in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php:44
+Stack trace:
+#0 /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php(44): getimagesize('')
+#1 {main}
+  thrown in /home/praktikum/public_html/kelompok_ojan/tugas_mpper4/galery.php on line 44
